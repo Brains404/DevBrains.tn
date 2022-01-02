@@ -8,7 +8,7 @@ Issue Best Practices
 * Always `search` for your issue first
 * Make sure to post screenshots of the issue
 * Include a detailed step-by-step guide on how to reproduce the issue
-* Use [GitHub Flavored Markdown](http://github.github.com/github-flavored-markdown/) to format your post
+* Use [GitHub Flavored Markdown](https://docs.github.com/en/github/writing-on-github) to format your post
 
 
 Issue Worst Practices
